@@ -13,4 +13,4 @@ It was compliled on Ubuntu 20.04, 64-bit.
 
 [Get the Vulnhub box here!](http://vulnhub.com/entry/foxhole-101,566/)
 
-[Write up explaining the solution](https://purpl3f0xsec.tech/2020/10/02/Vulnhub_foxhole.html)
+[Write up explaining the solution](https://purpl3f0xsecur1ty.tech/2020/10/02/Vulnhub_foxhole.html)
